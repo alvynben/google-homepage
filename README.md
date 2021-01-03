@@ -1,5 +1,5 @@
 # google-homepage
-<h1>Recreating the google homepage using homebrew HTML + CSS</h1>
+<p>Recreating the google homepage using homebrew HTML + CSS</p>
 <ol>
   <li>HTML</li>
   <li>CSS</li>
